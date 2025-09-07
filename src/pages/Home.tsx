@@ -11,7 +11,7 @@ export default function Home() {
             {/* Column 1: Logo */}
             <div className="flex justify-center">
               <img
-                src="/favicon.png"
+                src={`${process.env.PUBLIC_URL}/favicon.png`}
                 alt="भक्ति संग्रह लोगो"
                 className="w-40 h-40 object-contain rounded-full shadow-lg"
               />
