@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bhakti-sangrah/static/css/main.f92ef49d.css",
-    "main.js": "/bhakti-sangrah/static/js/main.b118adf1.js",
+    "main.js": "/bhakti-sangrah/static/js/main.693dced3.js",
     "static/js/453.5ad22b78.chunk.js": "/bhakti-sangrah/static/js/453.5ad22b78.chunk.js",
     "index.html": "/bhakti-sangrah/index.html",
     "main.f92ef49d.css.map": "/bhakti-sangrah/static/css/main.f92ef49d.css.map",
-    "main.b118adf1.js.map": "/bhakti-sangrah/static/js/main.b118adf1.js.map",
+    "main.693dced3.js.map": "/bhakti-sangrah/static/js/main.693dced3.js.map",
     "453.5ad22b78.chunk.js.map": "/bhakti-sangrah/static/js/453.5ad22b78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f92ef49d.css",
-    "static/js/main.b118adf1.js"
+    "static/js/main.693dced3.js"
   ]
 }
